@@ -1,4 +1,7 @@
-# 05 October 2026
+# Daily Research — 05 October 2026
+
+**File Name:** `YYYY-MM-DD.md`  
+**Example:** `2026-10-05.md`
 
 **Contributor:** Tharun  
 **Research Topic:** [Topic]
